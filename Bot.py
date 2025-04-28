@@ -5,7 +5,7 @@ from flask import Flask
 from threading import Thread
 
 # Настройки бота
-TOKEN = 'MTM2NTI4NjE0NDI3OTA1NjQxNQ.G41DCq.nItKyLi3Gx-76sx80SUIUuhAf9jsT6aKr3XDjA'  # Замените на токен вашего бота
+TOKEN = ''  # Замените на токен вашего бота
 TARGET_USER_IDS = [395946187804639241, 486463118743044098, 852653654205005895, 326260912795418624, 435425529852723202]  # Замените на ID нужных пользователей
 MESSAGE = "СБОР ПАТИ 5 НА РАССЛАБУХЕ"
 
